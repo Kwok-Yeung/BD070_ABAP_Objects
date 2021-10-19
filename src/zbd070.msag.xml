@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBD070</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Kundennummer &amp;1 existiert nicht. Bitte korrigieren!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Warteliste für Flug &amp;1 &amp;2 &amp;3 existiert bereits.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Es gibt keine Warteliste für Flug &amp;1 &amp;2 &amp;3 !</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Kein Eintrag in der Warteliste für Flug &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Bitte einen gültigen Flug auswählen!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Warteliste für &amp;1 &amp;2 &amp;3 angelegt.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Kunde &amp;1 ist bereits in der Warteliste für Flug &amp;2 &amp;3 &amp;4.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Doppelklick in Zeile &amp;1 Spalte &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Kunde &amp;1 ist nicht in der Warteliste für Flug &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Flugzeugtyp &amp;1 ist ungültig.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Ungültiger Wert für Parameter &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>900</MSGNR>
+     <TEXT>Interne Nummernvergabe (BOOKID) konnte nicht durchgeführt werden</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>901</MSGNR>
+     <TEXT>Warteliste zum Flug &amp;1 &amp;2 &amp;3 ist bereits vorhanden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>902</MSGNR>
+     <TEXT>Keine Warteliste zum Flug &amp;1 &amp;2 &amp;3 vorhanden!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>903</MSGNR>
+     <TEXT>Die Warteliste zum Flug &amp;1 &amp;2 &amp;3 enthält keine Einträge!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>904</MSGNR>
+     <TEXT>Bitte einen gültigen Flug auswählen</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>905</MSGNR>
+     <TEXT>Warteliste zum Flug &amp;1 &amp;2 &amp;3 erfolgreich angelegt!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>906</MSGNR>
+     <TEXT>Warteliste zum Flug &amp;1 &amp;2 &amp;3 wurde erfolgreich gelöscht!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>907</MSGNR>
+     <TEXT>Der erste Wartende aus der Warteliste zum Flug &amp;1 &amp;2 &amp;3 wurde gelöscht</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>908</MSGNR>
+     <TEXT>Bitte eine gültige Kundennummer auswählen!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>909</MSGNR>
+     <TEXT>Kunde &amp;1 steht bereits auf der Warteliste zum Flug &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>910</MSGNR>
+     <TEXT>Kunde &amp;1 in die Warteliste zum Flug &amp;2 &amp;3 &amp;4 aufgenommen</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>911</MSGNR>
+     <TEXT>Der Kunde &amp;1 steht nicht auf der Warteliste zum Flug &amp;2 &amp;3 &amp;4!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>912</MSGNR>
+     <TEXT>Kunde &amp;1 wurde von der Warteliste zum Flug &amp;2 &amp;3 &amp;4 gelöscht!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>913</MSGNR>
+     <TEXT>Kunde &amp;1 steht auf der Warteliste zum Flug &amp;2 an Position &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>914</MSGNR>
+     <TEXT>Die Warteliste zum Flug &amp;1 &amp;2 &amp;3 enthält &amp;4 Einträge.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>915</MSGNR>
+     <TEXT>Kunde &amp;1 ist &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>916</MSGNR>
+     <TEXT>Kundennummer &amp; ist nicht vorhanden. Bitte Eingabe korrigieren!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>917</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>918</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZBD070</ARBGB>
+     <MSGNR>919</MSGNR>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
