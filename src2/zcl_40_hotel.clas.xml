@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Hotels</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Konstruktor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>C_POS_1</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Konstante</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>DISPLAY_ATTRIBUTES</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Attribute anzeigen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>DISPLAY_N_O_HOTELS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Anzeigen ANzahl Hotels</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>GV_N_O_HOTELS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Anzahl Hotels</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>MV_BEDS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Beds</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_40_HOTEL</CLSNAME>
+     <CMPNAME>MV_NAME</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Name</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
